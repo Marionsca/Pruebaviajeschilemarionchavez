@@ -1,0 +1,26 @@
+h1 {
+    font-family: "roboto", sans-serif;
+}
+
+div body {
+    background-color: black;
+}
+
+
+p {
+    text-align: center;
+}
+
+.navbar {
+    background-color: rgba(40, 167, 150, 0.459) !important;
+}
+
+footer {
+    background-color: rgba(40, 167, 150, 0.459) !important;
+}
+
+
+.card img {
+    height: 250px;
+    width: 350px;
+}
